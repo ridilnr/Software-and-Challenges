@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CaesarCipher
+comment0.text=\r\n\ Write\ a\ description\ of\ CaesarCipher\ here.\r\n\ \r\n\ @author\ RIDI\ LUAMBA\r\n\ @version\ 15/10/2018\r\n
+comment1.params=input\ key
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment2.params=input\ key1\ key2
+comment2.target=java.lang.String\ encryptTwoKeys(java.lang.String,\ int,\ int)
+comment3.params=i\ alphabet\ encrypted\ shiftedAlphabet
+comment3.target=java.lang.StringBuilder\ replaceCharProcess(int,\ java.lang.String,\ java.lang.StringBuilder,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testCaesar()
+numComments=5

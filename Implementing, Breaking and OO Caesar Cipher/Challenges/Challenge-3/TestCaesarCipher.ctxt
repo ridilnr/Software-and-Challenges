@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestCaesarCipher
+comment0.text=\ \r\n\ @author\ RIDI\ LUAMBA\r\n\ @version\ 16/10/2018\r\n
+comment1.params=input
+comment1.target=java.lang.String\ breakCaesarCipher(java.lang.String)
+comment2.params=
+comment2.target=void\ simpleTests()
+numComments=3
