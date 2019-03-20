@@ -1,0 +1,184 @@
+/*
+------------------------------------------------ START STYLE PAGE 1 ----------------------------------------------------
+ */
+#mainTab{
+    width: 1000px;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+table tr td{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#subTab1{
+    width: 170px;
+    height: 210px;
+}
+.subTab11Row1 td:nth-child(2), .subTab11Row2 td:nth-child(2), .subTab11Row3 td:nth-child(2){
+    width: 27px;
+}
+.width-30{
+    column-span: 25;
+}
+#subTab2{
+    width: 310px;
+    height: 210px;
+}
+#subTab3{
+    width: 110px;
+    height: 210px;
+}
+.mainTabBodyRow3Col4 table{
+    width: 200px;
+}
+#subTab4{
+    height: 210px;
+}
+.borderBottomDotted.setwidth{
+}
+.subTotal4LastRow{
+}
+#subTab5{
+    width: 350px;
+}
+#subTab6{
+    width: 80px;
+}
+.subTab6Row1 td{
+    padding: 0 5px;
+}
+.subTab6Row1 td{
+    padding: 0 10px;
+}
+.subTab6Row1 td:nth-child(3){
+    padding: 0 9px;
+}
+#subTab6 tr td{
+    width: 50px;
+}
+#subTab7{
+    width: 250px;
+}
+#subTab8{
+    width: 500px;
+}
+#subTab9{
+    width: 500px;
+}
+#subTab10{
+    width: 500px;
+    height: 70px;
+}
+#subTab11{
+    width: 350px;
+    height: 70px;
+}
+.mainTabBodyRow4Col2{
+}
+.mainTabBodyRow4 tr td{
+    width: 200px;
+}
+.mainTabBodyRow3 tr td{
+    width: 250px;
+}
+/*
+---------------------------------------------------- BORDER ----------------------------------------------------
+ */
+.borderRight{
+    border-right: 1px solid #000000;
+}
+.borderBottom{
+    border-bottom: 1px solid #000000;
+}
+.borderBottomDotted{
+    border-bottom: 1px dotted #000000;
+}
+.borderLeft{
+    border-left: 1px solid #000000;
+}
+.borderTop{
+    border-top: 1px solid #000000;
+}
+
+/*
+
+ */
+.logo{
+    height: 70px;
+}
+.name{
+    height: 30px;
+    margin-left: 70px;
+}
+.formImage{
+    height: 360px;
+}
+.flexItem1{
+    margin-right: 5px;
+}
+.flexItem2{
+    margin-left: 50px;
+}
+.flexItem3{
+    position: absolute;
+    margin-left: 845px;
+}
+.flexItem3 > div:first-child div{
+    margin-left: 35px;
+}
+.flexItem3 > div:last-child{
+    margin-right: 10px;
+}
+hr{
+    border-color: #000;
+}
+.separator1{
+    margin-top: 0px;
+}
+.polisSpan{
+    padding-left: 80px;
+}
+.trafikSpan{
+    padding-left: 70px;
+}
+.jandarmaSpan{
+    padding-left: 40px;
+}
+.padParagraph{
+}
+/*
+-------------------------------------------------- END STYLE PAGE 1 ----------------------------------------------------
+ */
+
+
+
+
+
+/*
+-------------------------------------------------- START STYLE PAGE 2 ----------------------------------------------------
+ */
+.leftSignature{
+margin-left: 80px;
+}
+.rightSignature{
+    margin-right: 80px;
+}
+/*
+-------------------------------------------------- END STYLE PAGE 2 ----------------------------------------------------
+ */
+/*
+
+
+
+
+-------------------------------------------------- START STYLE PAGE 3 ----------------------------------------------------
+ */
+.setFontSize{
+    font-size: 11px;
+}
+.padLeft{
+    padding-left: 16px;
+}
+/*
+-------------------------------------------------- END STYLE PAGE 3 ----------------------------------------------------
+ */
