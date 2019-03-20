@@ -1,0 +1,26 @@
+/**********************************************************************************
+**********************************************************************************/
+reconcile_countries_by_name(
+	{'no': 'Norway', 'pr': 'Puerto Rico', 'us': 'United States'},
+	{
+	'Puerto Rico': {'Country Code': 'PRI', 'Country Name': 'Puerto Rico'},
+	'Norway': {'Country Code': 'NOR', 'Country Name': 'Norway'},
+	'United States': {'Country Code': 'USA', 'Country Name': 'United States'}
+	}
+)
+expected ({'no': 'Norway', 'pr': 'Puerto Rico', 'us': 'United States'}, set()) 
+but received ({}, set()) (Exception: Invalid Keys) Expected dictionary {'no': 'Norway', 'pr': 'Puerto Rico', 'us': 'United States'} has a different number of keys than received dictionary {}
+/**********************************************************************************
+**********************************************************************************/
+build_map_dict_by_name(
+{
+	'separator': ',', 'max_year': 2005, 'gdpfile': 'gdptable1.csv', 
+	'country_code': 'Code', 'quote': '"', 'min_year': 2000, 
+	'country_name': 'Country Name'
+}, 
+{
+	'C4': 'Country4', 'C2': 'Country2', 'C3': 'Country3', 'C1': 'Country1', 
+	'C5': 'Country5'
+}, '2003') 
+expected ({'C2': 1.1139433523068367, 'C1': 0.6020599913279623}, {'C3', 'C4', 'C5'}, set()) 
+but received ({}, set(), set()) (Exception: Invalid Keys) Expected dictionary {'C2': 1.1139433523068367, 'C1': 0.6020599913279623} has a different number of keys than received dictionary {}
