@@ -1,0 +1,13 @@
+body {
+  padding-top: 10px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.red{
+  color: red !important;
+}
+.green{
+  color: green !important;
+}
