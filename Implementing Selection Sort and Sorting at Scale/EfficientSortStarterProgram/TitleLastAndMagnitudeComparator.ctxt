@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TitleLastAndMagnitudeComparator
+comment0.text=\r\n\ Write\ a\ description\ of\ TitleLastAndMagnitudeComparator\ here.\r\n\ \r\n\ @author\ RIDILUAMBA\r\n\ @version\ 27/10/2018\r\n
+comment1.params=q1\ q2
+comment1.target=int\ compare(QuakeEntry,\ QuakeEntry)
+numComments=2
